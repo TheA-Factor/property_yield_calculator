@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -461,7 +460,7 @@
         <form id="propertyForm">
             <div class="form-group">
                 <label for="name">Property Name/Address</label>
-                <input type="text" id="name" name="name" required placeholder="e.g., 410/12 Coppin Street Richmond">
+                <input type="text" id="name" name="name" required placeholder="e.g., 221B Baker Street">
             </div>
 
             <div class="form-group">
